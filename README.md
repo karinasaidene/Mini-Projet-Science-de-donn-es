@@ -1,2 +1,2 @@
 # Mini-Projet-Science-de-donn-es
-Ceci est le code du premier mini projet que nous avons réalisé dans l'UE de Science de Données à Sorbonne Université sur l'apprentissage supervisé(classfication))
+Ceci est le code du premier mini projet que nous avons réalisé au sein de l'UE de Science de Données à Sorbonne Université en Licence 3 portant sur l'apprentissage supervisé(classfication), nous avons implémenté le code de classifieurs : KNN, perceptron et perceptron Biais et d'autres fonctions que nous avons expérimenté sur des données de 2D et 5D pour en suite tirer des conclusion sur ces classifieurs aprés analyse des différents graphes réalisés 
